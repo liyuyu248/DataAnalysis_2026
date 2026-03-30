@@ -1,0 +1,4 @@
+dataset,n,mean,std,min,median,max
+Original observed,755,0.842515,9.486739,0.077,0.432,261.0
+PMM imputed complete,1148,0.728521,7.696104,0.077,0.437,261.0
+RF imputed complete,1148,0.912656,7.873194,0.077,0.478872,261.0
