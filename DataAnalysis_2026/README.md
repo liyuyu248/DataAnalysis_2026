@@ -15,10 +15,10 @@ So I completed the module that can be supported by the provided files, and creat
 
 ```text
 DataAnalysis_2026/
-├── Module_1_Your_Module_Name/
+├── Module_1_Business_Case_Definition/
 ├── Module_2_Data_Manipulation_and_Cleaning/
-├── Module_3_Your_Module_Name/
-└── Module_Template/
+├── Module_3_Data_Visualization/
+└── Module_04_Statistical_Analysis/
 ```
 
 ## What each module folder should contain
