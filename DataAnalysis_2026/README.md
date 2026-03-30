@@ -3,7 +3,7 @@
 This repository is organized **by module**, following the course requirement that each module should have its own folder.
 
 ## Current status
-At present, only **Module 2: Data Manipulation and Cleaning** is fully completed, because the uploaded materials in this chat include only:
+At present, only **Module 2: Data Manipulation and Cleaning** is fully completed, because the uploaded materials include only:
 
 - `Practice 1.pdf`
 - `Data_Manipulation_Process.R`
