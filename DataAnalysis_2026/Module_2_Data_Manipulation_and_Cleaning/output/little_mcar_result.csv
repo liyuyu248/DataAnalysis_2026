@@ -1,2 +1,0 @@
-dataset,chi_square,df,p_value,missing_patterns,conclusion
-handle_MD_df,1809.5849735246563,1102,0.0,54,Reject H0: data is not MCAR (likely MAR/MNAR)

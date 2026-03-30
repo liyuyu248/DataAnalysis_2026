@@ -1,3 +1,0 @@
-method,n_imputed,mean,std,min,median,max
-PMM (only imputed rows),393,0.509524,0.35539,0.077,0.441336,2.971
-RF (only imputed rows),393,1.047406,2.870407,0.327133,0.513171,18.13899
