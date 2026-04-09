@@ -1,0 +1,15 @@
+Prepared outputs note
+
+This package includes:
+1. the original R script from the uploaded file,
+2. a cleaned R script designed for GitHub submission,
+3. exported result tables and figures.
+
+The original uploaded script demonstrates:
+- reading distribution.csv, factor_data.csv, and imputed_data.csv,
+- merging factor_data and imputed_data by record_id,
+- fitting normal, lognormal, and exponential distributions,
+- comparing models using BIC,
+- starting the analysis for lipid variables.
+
+The cleaned script extends that logic to the full grouped homework workflow.

@@ -1,0 +1,3 @@
+outcome,imputation_method,imputed_value,n_imputed
+0,median within outcome group,0.41,247
+1,median within outcome group,0.445,28
