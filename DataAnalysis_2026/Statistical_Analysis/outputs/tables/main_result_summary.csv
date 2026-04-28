@@ -1,0 +1,10 @@
+variable,wilcox_p,brunner_munzel_p,recommended_test,wilcox_significant,brunner_munzel_significant
+hormone1,0.758674647091452,0.7499626955499511,Wilcoxon rank-sum / Mann-Whitney U,False,False
+hormone2,0.005403310440800195,0.0035906099235683306,Wilcoxon rank-sum / Mann-Whitney U,True,True
+hormone3,0.13458611419321,0.1306757720555561,Wilcoxon rank-sum / Mann-Whitney U,False,False
+hormone4,0.14820636014532343,0.16351438119740982,Wilcoxon rank-sum / Mann-Whitney U,False,False
+hormone5,0.003717463174032088,0.0030409349499149257,Wilcoxon rank-sum / Mann-Whitney U,True,True
+hormone6,0.8159885820845967,0.8172988197405506,Wilcoxon rank-sum / Mann-Whitney U,False,False
+hormone7,0.9205812660271506,0.9219787445278531,Wilcoxon rank-sum / Mann-Whitney U,False,False
+hormone8,0.00038398765876212994,0.0003826674791781771,Wilcoxon rank-sum / Mann-Whitney U,True,True
+hormone10_generated,0.790516746454749,0.7886076180199033,Wilcoxon rank-sum / Mann-Whitney U,False,False
