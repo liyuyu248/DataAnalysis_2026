@@ -6,9 +6,8 @@ Course assignment repository for **Data Analysis**.
 
 ## Author
 
-- Name: `YOUR_REAL_NAME`
-- GitHub account: `YOUR_GITHUB_USERNAME`
-- Repository: `YOUR_GITHUB_USERNAME/DataAnalysis_2026`
+- Name: `Hanyuze`
+- GitHub account: `liyuyu248`
 
 ## Module
 
